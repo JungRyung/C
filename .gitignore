@@ -1,0 +1,6 @@
+### MacOS
+.DS_Store
+### Excutable files
+results/
+### HWP docs
+*.hwp
